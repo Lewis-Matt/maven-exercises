@@ -8,7 +8,7 @@
     <artifactId>maven-exercises</artifactId>
     <!--Semantic Versioning: https://semver.org/-->
     <version>1.0.0</version>
-
+<!--TODO: See Dependencies.txt notes in ~IdeaProjects/codeup-java-exercises-->
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
